@@ -6,6 +6,8 @@
 [Bb]uilds/
 [Ll]ogs/
 
+Assets/_Recovery/
+
 # Visual Studio / Rider / IDE
 .vs/
 .vscode/
